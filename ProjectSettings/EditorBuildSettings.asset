@@ -5,12 +5,9 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
+  - enabled: 1
     path: Assets/Beer AR/Scenes/Beer_AR.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
-    path: Assets/Beer AR/Scenes/Beer_AR 1.unity
-    guid: 1bff0bd92ee4c364d85de7f3af8b8c74
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 4835fa3a7cf9c374381e8855edcb7275, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f3bd34e3afab3fc40a12781b6a832a73, type: 2}
