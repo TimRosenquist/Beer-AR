@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: adff411fd684b2946bb3fcb7cb282c6f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Cheers
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: adafe588c3812c74b8c43f0cebc145ed, type: 3}
+  - {fileID: 12800000, guid: 813c75675f33d664a86c62bb84f9611d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
